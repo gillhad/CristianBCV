@@ -1,0 +1,15 @@
+{
+    "name": "gillhad/crbaronuf4",
+    "description": "Practica UF4 Cristian Baron, filtra datos de tu company",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "gillhad\\crbaronuf4\\": "src/"
+        }
+    }
+}
